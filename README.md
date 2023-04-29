@@ -1,3 +1,10 @@
+Teresa Bot
+
+Team Members:
+Archana
+Swathi
+
+
 # pose-estimation-detection
 
 Pose estimation & detection has been minimally implemented using the OpenPose implementation https://github.com/ildoonet/tf-pose-estimation with Tensorflow. For the binary classification of poses, namely the classes : sitting or standing, the model used, MobileNet (a CNN originally trained on the ImageNet Large Visual Recognition Challenge dataset), was retrained (final layer) on a dataset of ~1500 images of poses.
